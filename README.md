@@ -250,9 +250,11 @@ For a list of all contributors to the OWASP Juice Shop please visit our
 
 [![license](https://img.shields.io/github/license/bkimminich/juice-shop.svg)](LICENSE)
 
-password: password123
+
 This program is free software: you can redistribute it and/or modify it under the terms of the [MIT license](LICENSE).
 OWASP Juice Shop and any contributions are Copyright © by Bjoern Kimminich & the OWASP Juice Shop contributors
 2014-2024.
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png)
+
+12A8t6cUAG/bb7z+LlSeD4M8gzqM5j5bwi+xXSPGZdB6fCQLO1z8UyS20odmBgmN8FBi3N4zGfLhEeZI8cu59g==
