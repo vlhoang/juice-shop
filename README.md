@@ -257,4 +257,4 @@ OWASP Juice Shop and any contributions are Copyright © by Bjoern Kimminich & th
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png)
 
-12A8t6cUAG/bb7z+LlSeD4M8gzqM5j5bwi+xXSPGZdB6fCQLO1z8UyS20odmBgmN8FBi3N4zGfLhEeZI8cu59g==
+ghp_XYZ123abc456def789ghi012jkl345mno678pq
